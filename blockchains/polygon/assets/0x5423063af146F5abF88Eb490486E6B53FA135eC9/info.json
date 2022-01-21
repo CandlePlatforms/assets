@@ -1,0 +1,11 @@
+{
+    "name": "CANDLE",
+    "symbol": "CNDL",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Decentralizing Religion, Uniting Crypto",
+    "website": "candlelabs.org",
+    "explorer": "https://polyscan.io/token/0x5423063af146F5abF88Eb490486E6B53FA135eC9",
+    "status": "active",
+    "id": "0x5423063af146F5abF88Eb490486E6B53FA135eC9"
+}
