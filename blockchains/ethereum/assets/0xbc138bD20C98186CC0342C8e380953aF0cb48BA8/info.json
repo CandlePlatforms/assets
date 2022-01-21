@@ -1,0 +1,11 @@
+{
+    "name": "CANDLE",
+    "symbol": "CNDL",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Decentralizing Religion, Uniting Crypto",
+    "website": "candlelabs.org",
+    "explorer": "https://etherscan.io/token/0xbc138bD20C98186CC0342C8e380953aF0cb48BA8",
+    "status": "active",
+    "id": "0xbc138bD20C98186CC0342C8e380953aF0cb48BA8"
+}
